@@ -1,0 +1,13 @@
+<p>
+  update-product works!
+</p>
+<form id="formNewProduct" name="formNewProduct" #productData="ngForm" (ngSubmit)="updateProduct(productData.value)">
+
+<label>Name</label>
+<input type="text" name="name" id="name" placeholder="name" [(ngModel)]="data.name" ngModel>
+<label>Color</label>
+<input type="text" name="color" id="name" [(ngModel)]="data.color" placeholder="color" ngModel>
+<input type="submit" value="Update Product">
+
+
+</form>

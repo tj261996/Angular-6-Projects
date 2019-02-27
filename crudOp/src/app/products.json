@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "sa",
+      "color": "sas",
+      "id": 9
+    },
+    {
+      "name": "Tanmay",
+      "color": "ee",
+      "id": 10
+    },
+    {
+      "name": "dfd",
+      "color": "hjjj",
+      "id": 11
+    },
+    {
+      "name": "mike",
+      "color": "lawrie",
+      "id": 12
+    }
+  ]
+}
